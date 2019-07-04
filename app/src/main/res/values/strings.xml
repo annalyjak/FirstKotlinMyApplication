@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_toast">TOAST</string>
+    <string name="counter">0</string>
+    <string name="button_random">RANDOM</string>
+    <string name="button_count">Count</string>
+    <string name="random_textview">0</string>
+</resources>
