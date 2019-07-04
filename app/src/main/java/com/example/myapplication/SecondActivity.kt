@@ -8,6 +8,9 @@ import java.util.*
 
 class SecondActivity : AppCompatActivity() {
 
+    /**
+     * To pass the element [textView]
+     */
     companion object {
         const val TOTAL_COUNT = "total_count"
     }
